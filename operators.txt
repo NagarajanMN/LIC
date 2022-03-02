@@ -1,0 +1,4 @@
+Operators:
+print(5>10)
+city1 = 'chennai'
+print('chennai' is city 1)
